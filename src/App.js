@@ -46,6 +46,7 @@ function App() {
         <div>
           <img src={user.picture}></img>
           <h3>{user.name}</h3>
+          <h3>{user.email}</h2>
         </div>  
 
       }
