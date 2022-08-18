@@ -22,7 +22,7 @@ function App() {
   useEffect(() => {
     /* global google */
     google.accounts.id.initialize({
-      client_id: "442763437096-mbm8s7rhocjbjg29r94k37bgm5fevm7i.apps.googleusercontent.com",
+      client_id: "913173675584-q83qqe6cbhs757i9t2us3k98o9cas68i.apps.googleusercontent.com",
       callback: handleCallbackResponse
     });
 
